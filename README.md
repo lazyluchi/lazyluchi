@@ -1,5 +1,5 @@
 ![GitHub Followers](https://img.shields.io/github/followers/lazyluchi?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/lazyluchi?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/lzxwchi?style=social)
 
 Hey there! I'm Luchi, and this is my journey to becoming a front-end expert.
 
@@ -36,7 +36,7 @@ Build a personal portfolio that truly reflects my style.
 
 Let's build and conquer the backend realm together! Reach out on:
 
-- GitHub: [LazyLuchi](https://github.com/LazyLuchi)
-- Twitter: [@LazyLuchi](https://twitter.com/LazyLuchi)
+- GitHub: [Lzxwchi](https://github.com/Lzxwchi)
+- Twitter: [@Lzxwchi](https://twitter.com/Lzxwchi)
 
 Feel free to poke around and follow my journey. If you're on a similar path, let's connect and learn from each other. The road to front-end mastery is more fun when traveled together!
